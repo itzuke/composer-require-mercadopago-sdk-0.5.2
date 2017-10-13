@@ -1,0 +1,1 @@
+# composer-require-mercadopago-sdk-0.5.2
